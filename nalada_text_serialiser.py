@@ -1,7 +1,5 @@
 import re
 from pathlib import Path
-from save_note_pg_wise import parse_fn
-from antx import transfer
 
 from openpecha.serializers import HFMLSerializer
 from openpecha.utils import load_yaml
@@ -55,21 +53,16 @@ def save_text(hfml_text, text_id, pecha_name):
         text = hfml
         break
     # if len(hfml_text) == 1:
-    Path(f'./hfmls/{pecha_name}/{text_id}.txt').write_text(text, encoding='utf-8')
+    Path(f'./hfmls/{pecha_name}/{text_id}_{vol_id}.txt').write_text(text, encoding='utf-8')
     # else:
     #     print(text_id)
     print(f'{text_id} saved..')
 
-def get_text_with_pedurma_marker(g_text, d_text):
-    annotations = [['marker', '(#)']]
-    text_with_marker = transfer(d_text, annotations, g_text, output='txt')
-    return text_with_marker
-
 
 if __name__ == "__main__":
-    pecha_id = "P000002"
-    opf_path = Path(f'./{pecha_id}/{pecha_id}.opf/')
-    pecha_name = "derge"
+    pecha_id = "187ed94f85154ea5b1ac374a651e1770"
+    opf_path = Path(f'./opfs/{pecha_id}/{pecha_id}.opf/')
+    pecha_name = "namsel_pedurma"
     pedurma_index = load_yaml((opf_path / 'index.yml'))
     nalanda_texts = Path('./nalanda_text_list.txt').read_text(encoding='utf-8')
     nalanda_text_ids = nalanda_texts.splitlines()
