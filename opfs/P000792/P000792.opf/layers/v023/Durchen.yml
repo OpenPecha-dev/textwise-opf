@@ -1,0 +1,90 @@
+id: ecfa06c7b7624506a630baf8e5807ec9
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  be5e77cc173e4a2998faddd3c1d39ba2:
+    span:
+      start: 44698
+      end: 47847
+  5f00735dee1a4d77ad302fac4668fef8:
+    span:
+      start: 73400
+      end: 76711
+  3a833ba58d4240c69fa410ac8ba4560f:
+    span:
+      start: 92508
+      end: 95552
+  ecf2a0b0a82c4972944cc0f7519fb8a1:
+    span:
+      start: 127791
+      end: 129157
+  a4916b3ebd9a46e6bfae9d2c94bdc196:
+    span:
+      start: 152736
+      end: 155565
+  532199c94c5f46b1afdfbbccbc1c85bd:
+    span:
+      start: 318442
+      end: 335814
+  a03efe4918464c6c80da5aac08d728bd:
+    span:
+      start: 363166
+      end: 365564
+  7ca3a2c59a6e4429afe114edd46dba58:
+    span:
+      start: 400168
+      end: 403542
+  1e2998f3c4214ccb8d609ff0ba088965:
+    span:
+      start: 572483
+      end: 573521
+  eefbc381f0294d50825a74ac0d8c6718:
+    span:
+      start: 789406
+      end: 809089
+  a6884c29f4f54bf99ed34aa7c094bc64:
+    span:
+      start: 925025
+      end: 939753
+  f79b9ba9d8c649c2aa83ff57f25310ea:
+    span:
+      start: 1000073
+      end: 1010800
+  f72ea8743c9a4eb18879eeda6f0e2ea9:
+    span:
+      start: 1287359
+      end: 1323375
+  2419c191b1bb4ad29532a3aa316204a4:
+    span:
+      start: 1654805
+      end: 1684631
+  e771916484374e5f92779f7f82aa5d83:
+    span:
+      start: 1990966
+      end: 2046686
+  f1d84db60cfe4bafb82b80ecd9e4593d:
+    span:
+      start: 2226259
+      end: 2259070
+  3ddbc6b090434677869066aeece28d77:
+    span:
+      start: 2341884
+      end: 2354806
+local_ids:
+  be5e77cc173e4a2998faddd3c1d39ba2: 200000
+  5f00735dee1a4d77ad302fac4668fef8: 200001
+  3a833ba58d4240c69fa410ac8ba4560f: 200002
+  ecf2a0b0a82c4972944cc0f7519fb8a1: 200003
+  a4916b3ebd9a46e6bfae9d2c94bdc196: 200005
+  532199c94c5f46b1afdfbbccbc1c85bd: 200006
+  a03efe4918464c6c80da5aac08d728bd: 200007
+  7ca3a2c59a6e4429afe114edd46dba58: 200008
+  1e2998f3c4214ccb8d609ff0ba088965: 200010
+  eefbc381f0294d50825a74ac0d8c6718: 200011
+  a6884c29f4f54bf99ed34aa7c094bc64: 200012
+  f79b9ba9d8c649c2aa83ff57f25310ea: 200013
+  f72ea8743c9a4eb18879eeda6f0e2ea9: 200014
+  2419c191b1bb4ad29532a3aa316204a4: 200016
+  e771916484374e5f92779f7f82aa5d83: 200017
+  f1d84db60cfe4bafb82b80ecd9e4593d: 200018
+  3ddbc6b090434677869066aeece28d77: 200019

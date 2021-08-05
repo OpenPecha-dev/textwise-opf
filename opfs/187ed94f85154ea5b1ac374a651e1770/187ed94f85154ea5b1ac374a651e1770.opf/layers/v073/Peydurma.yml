@@ -1,0 +1,10 @@
+id: c1f0e83851274d27b694d1f66a856bbc
+annotation_type: Peydurma
+revision: '00001'
+annotations:
+  66cbd56b79a74f94ba125e80ed3d0883:
+    span:
+      start: 1435505
+      end: 1435505
+local_ids:
+  66cbd56b79a74f94ba125e80ed3d0883: 200000

@@ -1,0 +1,155 @@
+id: d7bd2c373fa74e88a776a8a07ac79e52
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  ffb8ca2c39144da7a989dc89a9310624:
+    span:
+      start: 75220
+      end: 84326
+  586e01d9494a46bda39539f0529ec2b6:
+    span:
+      start: 91706
+      end: 93681
+  9d0298992ea84a6193d19b0710f36ce8:
+    span:
+      start: 98384
+      end: 99717
+  d1ee3b0873504dbaa5eb43929d7e7037:
+    span:
+      start: 108426
+      end: 110554
+  dc9fe65e501143b69b4f240796d1a329:
+    span:
+      start: 119279
+      end: 120845
+  98deefc00db146fb8f0fa9e92202cca2:
+    span:
+      start: 352920
+      end: 377485
+  e11eba75674a4a44b0b71f2d37ebd226:
+    span:
+      start: 411920
+      end: 418642
+  c1a5a3ddb4b247d8a451f2909c2c596f:
+    span:
+      start: 454377
+      end: 460200
+  3ff60338b6134bbe8f6aa2049bea1a19:
+    span:
+      start: 512455
+      end: 520158
+  6d1f7ca4a56c4ef49d6e05cfabe11dc1:
+    span:
+      start: 523215
+      end: 524059
+  d62ec9701ff64ccd8fb1b17e0a3eb47b:
+    span:
+      start: 524743
+      end: 525332
+  e306afb77f054340a05e3c7d2d49e181:
+    span:
+      start: 550617
+      end: 553724
+  c68eeee216f14080bf35ade7cd136ded:
+    span:
+      start: 554476
+      end: 555770
+  4ca712b71fac45bbbf54896f67d2d2fa:
+    span:
+      start: 561943
+      end: 564123
+  7399ac8ea80f45b0b94b3cd9ba3e0d61:
+    span:
+      start: 567608
+      end: 568370
+  27f6501d4deb4ae893f6a5c2a4f4d40c:
+    span:
+      start: 571031
+      end: 571781
+  2a1d900f56f146538f68c6282000edd4:
+    span:
+      start: 574413
+      end: 575020
+  1cf4edc106af4e79bed620ffaae1d4fa:
+    span:
+      start: 595125
+      end: 598563
+  d0efb22cda4e4dc5b01c9a31ed619cfd:
+    span:
+      start: 1010498
+      end: 1052687
+  0c5629415df44226900f2d0fa01918fa:
+    span:
+      start: 1057890
+      end: 1058880
+  69c01f230a7b49c0b76918a7df1a57a1:
+    span:
+      start: 1060086
+      end: 1060470
+  689a30ff07974110b8d082ed6126be25:
+    span:
+      start: 1066177
+      end: 1067411
+  4f1aab9aa6654ad5a0d28e1a0e3b02cf:
+    span:
+      start: 1117020
+      end: 1127057
+  82086ea0895a45aab5c19e92940c0fef:
+    span:
+      start: 1137073
+      end: 1139080
+  903631a066a94e1ab7d4f294d784febc:
+    span:
+      start: 1139818
+      end: 1140367
+  044af69f6dcd4ae7ba949bc786b5639f:
+    span:
+      start: 1145237
+      end: 1146398
+  30e0f0c3e2504594bea019566c86ccc6:
+    span:
+      start: 1153348
+      end: 1154266
+  26af14ecbb0449839cb9c616be30ce47:
+    span:
+      start: 1159217
+      end: 1159951
+  6081b15b3b81457babf4d5de90a7ffc5:
+    span:
+      start: 1219246
+      end: 1224870
+  62f36410d35747c093fce4852e58b929:
+    span:
+      start: 2142874
+      end: 2154914
+local_ids:
+  ffb8ca2c39144da7a989dc89a9310624: 200000
+  586e01d9494a46bda39539f0529ec2b6: 200001
+  9d0298992ea84a6193d19b0710f36ce8: 200002
+  d1ee3b0873504dbaa5eb43929d7e7037: 200003
+  dc9fe65e501143b69b4f240796d1a329: 200004
+  98deefc00db146fb8f0fa9e92202cca2: 200005
+  e11eba75674a4a44b0b71f2d37ebd226: 200006
+  c1a5a3ddb4b247d8a451f2909c2c596f: 200007
+  3ff60338b6134bbe8f6aa2049bea1a19: 200008
+  6d1f7ca4a56c4ef49d6e05cfabe11dc1: 200009
+  d62ec9701ff64ccd8fb1b17e0a3eb47b: 200010
+  e306afb77f054340a05e3c7d2d49e181: 200011
+  c68eeee216f14080bf35ade7cd136ded: 200012
+  4ca712b71fac45bbbf54896f67d2d2fa: 200013
+  7399ac8ea80f45b0b94b3cd9ba3e0d61: 200014
+  27f6501d4deb4ae893f6a5c2a4f4d40c: 200015
+  2a1d900f56f146538f68c6282000edd4: 200016
+  1cf4edc106af4e79bed620ffaae1d4fa: 200017
+  d0efb22cda4e4dc5b01c9a31ed619cfd: 200018
+  0c5629415df44226900f2d0fa01918fa: 200019
+  69c01f230a7b49c0b76918a7df1a57a1: 200020
+  689a30ff07974110b8d082ed6126be25: 200021
+  4f1aab9aa6654ad5a0d28e1a0e3b02cf: 200022
+  82086ea0895a45aab5c19e92940c0fef: 200023
+  903631a066a94e1ab7d4f294d784febc: 200024
+  044af69f6dcd4ae7ba949bc786b5639f: 200025
+  30e0f0c3e2504594bea019566c86ccc6: 200026
+  26af14ecbb0449839cb9c616be30ce47: 200027
+  6081b15b3b81457babf4d5de90a7ffc5: 200028
+  62f36410d35747c093fce4852e58b929: 200030

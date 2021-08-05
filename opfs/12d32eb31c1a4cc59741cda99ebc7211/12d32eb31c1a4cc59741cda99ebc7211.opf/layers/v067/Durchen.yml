@@ -1,0 +1,64 @@
+id: dc3a009b55cc4a368c1f18c0130e41e2
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  d03d37113c78406089bfe7620b480f27:
+    span:
+      start: 415055
+      end: 447652
+  3581f566c3344587a65d8cb2ca3a33d4:
+    span:
+      start: 532972
+      end: 539972
+  f79801464a6c4c95afa378b21772e7ee:
+    span:
+      start: 597941
+      end: 602340
+  1b3000cad13844a3b01b3c512c4426e7:
+    span:
+      start: 625430
+      end: 628400
+  d21274b8fcde42c1b27fc333f8ea9d4e:
+    span:
+      start: 638197
+      end: 639470
+  347a31bdb4dc4bdeb5d4ddd04f59da3e:
+    span:
+      start: 651929
+      end: 654648
+  300ce4477545426db240bc7ba9d643c9:
+    span:
+      start: 685118
+      end: 687997
+  d5cadda6a8ea4fd887004585e8defd37:
+    span:
+      start: 709212
+      end: 712854
+  40d2c0284de5413e9908db11828e71ea:
+    span:
+      start: 729165
+      end: 732386
+  6008c72af37b4a92823d7aa77dcaaa57:
+    span:
+      start: 735085
+      end: 735991
+  9dd1313d77e34797bef125ed1d8f99f5:
+    span:
+      start: 1007758
+      end: 1032888
+  8f7306669e0b4df1a381fe87e63a6ea0:
+    span:
+      start: 1687127
+      end: 1693768
+  0c94be8f202a44008631b1be60b7f27b:
+    span:
+      start: 1869452
+      end: 1884836
+  efa4f08f37914e878b038d88bb7adf39:
+    span:
+      start: 1945281
+      end: 1954786
+  8230f30a4e1440afa5241153bfd043b2:
+    span:
+      start: 2012076
+      end: 2020766

@@ -1,0 +1,45 @@
+id: 89bd38470e7140019e27be41a8c06da1
+annotation_type: Peydurma
+revision: '00001'
+annotations:
+  6778936087b640c995610a7f1ad50875:
+    span:
+      start: 2450
+      end: 2450
+  e8a0ee6dabc44ecd8b5aef5b75aab66d:
+    span:
+      start: 2451
+      end: 2451
+  415d3ce689c041399920d46692148d59:
+    span:
+      start: 2452
+      end: 2452
+  53b0f1e509b84fe1b08fd5325e2a2122:
+    span:
+      start: 2453
+      end: 2453
+  e157c91f363d44838f2ec293629bd6e3:
+    span:
+      start: 2454
+      end: 2454
+  7d5e55e702e34927b35bf5a7b5468b8f:
+    span:
+      start: 291515
+      end: 291515
+  57b91782c9594a16a19df291e47a8e0e:
+    span:
+      start: 463106
+      end: 463106
+  ab55cbbb866b426c90b29098016d2db1:
+    span:
+      start: 691464
+      end: 691464
+local_ids:
+  6778936087b640c995610a7f1ad50875: 200000
+  e8a0ee6dabc44ecd8b5aef5b75aab66d: 200001
+  415d3ce689c041399920d46692148d59: 200002
+  53b0f1e509b84fe1b08fd5325e2a2122: 200003
+  e157c91f363d44838f2ec293629bd6e3: 200004
+  7d5e55e702e34927b35bf5a7b5468b8f: 200005
+  57b91782c9594a16a19df291e47a8e0e: 200006
+  ab55cbbb866b426c90b29098016d2db1: 200007
