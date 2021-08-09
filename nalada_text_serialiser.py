@@ -60,9 +60,9 @@ def save_text(hfml_text, text_id, pecha_name):
 
 
 if __name__ == "__main__":
-    pecha_id = "187ed94f85154ea5b1ac374a651e1770"
+    pecha_id = "12d32eb31c1a4cc59741cda99ebc7211"
     opf_path = Path(f'./opfs/{pecha_id}/{pecha_id}.opf/')
-    pecha_name = "namsel_pedurma"
+    pecha_name = "derge_google_pedurma"
     pedurma_index = load_yaml((opf_path / 'index.yml'))
     nalanda_texts = Path('./nalanda_text_list.txt').read_text(encoding='utf-8')
     nalanda_text_ids = nalanda_texts.splitlines()
