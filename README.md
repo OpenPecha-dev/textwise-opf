@@ -19,7 +19,7 @@
 
 ## Description
 
-This repo creates google and namel opf of nalanda hfml text.
+Preparing textwise opf of katen pedurma.
 <!-- This section provides a high-level overview for the repo -->
 
 ## Owner
